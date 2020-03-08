@@ -1,6 +1,8 @@
 # Building your first monday feature (view/widget)
 
-In this tutorial we will build a simple Hello World app. This tutorial will start simple, and build a more complex app as it goes along. It can be used as a view or a widget. The full code in this example can be found here.
+In this tutorial we will build a simple Hello World app. This tutorial will start simple, and build a more complex app as it goes along. It can be used as a view or a widget. 
+
+The starter code for this example can be found [here](starter-code.zip).
 
 ## Before we begin
 

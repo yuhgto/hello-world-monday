@@ -1,3 +1,6 @@
+> NOTE: Our apps platform is currently unreleased, so the information in this guide is subject to change significantly. 
+> If you'd like to be one of the first to access the feature when it's released, you can sign up for the beta program [here](https://forms.monday.com/forms/5cd89b4e8df0b650f4e323057872b84e). 
+
 # Building your first monday feature (view/widget)
 
 In this tutorial we will build a simple Hello World app. This tutorial will start simple, and build a more complex app as it goes along. It can be used as a view or a widget. 

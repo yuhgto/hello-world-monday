@@ -22,7 +22,7 @@ The starter code for this example can be found [here](starter-code.zip).
 + A monday.com account and a basic understanding of monday.com concepts (boards, board views, dashboards, widgets)
 + Working environment of NodeJS on your computer, as well as a package manager like npm or yarn.
 
-*TIP: This particular project uses React, but you should be able to follow along without extensive knowledge of the framework.*
+*TIP: This particular project uses React, but you can build client-side apps with any web framework. In this tutorial, you should be able to follow along without extensive knowledge of React specifically.*
 
 ## Part 1: Register your application
 
